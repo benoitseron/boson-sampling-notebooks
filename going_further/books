@@ -1,0 +1,3 @@
+- The Julia documentation: a bit thick if not an experienced programmer, but very good.
+- Hands-On Design Patterns and Best Practices with Julia: Proven solutions to common problems in software design for Julia 1.x : Highly recommended to increase your programming level
+- Julia High Performance: Optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond, 2nd Edition : I find it less interesting on an abstract point of view (you won't become that much better of a programmer), but essential if you want to write fast executing code and enjoy the benefits of Julia such as easy parallelization, GPU usage, distributed computing,...
